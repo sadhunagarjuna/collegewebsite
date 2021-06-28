@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+    color: chartreuse;
+}
+body{
+    background-color:darkgray;
+    border-style: dotted;
+}
+.naga{
+    padding: 5px;
+    margin: 10px;
+}
+.sadhu{
+    padding: 5px;
+    margin: 10px;
+    margin-left: 40px;
+}
+.arjun{
+    padding: 5px;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+    color:red;
+}

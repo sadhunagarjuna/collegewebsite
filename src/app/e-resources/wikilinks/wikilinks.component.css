@@ -1,0 +1,19 @@
+h3{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: red;
+}
+li{
+    padding:25px;
+    font-size: 30px;
+}
+body{
+    background-color: cyan;
+}

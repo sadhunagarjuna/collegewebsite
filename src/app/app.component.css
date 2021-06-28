@@ -1,0 +1,17 @@
+
+#naga{
+  color: red;
+ 
+}
+h2{
+  color: greenyellow;
+}
+
+img{
+  width: 34px;
+  float: left;
+  image-resolution: center;
+}
+.naga{
+    margin-left: 220px;
+}

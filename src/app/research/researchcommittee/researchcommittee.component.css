@@ -1,0 +1,36 @@
+table{
+     font-family: Arial, Helvetica, sans-serif;
+     border-collapse: collapse;
+     width: 1000px;
+     text-align: center;
+     margin-left: 200px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  h3{
+      text-align: center;
+      color:greenyellow;
+  }
+  th{
+      color:red;
+      text-align: center;
+  }
+  td{
+      color:deeppink;
+      text-align: center;
+  }
+  body{
+      background-image: url("https://images.static-collegedunia.com/public/college_data/images/appImage/226_2ba644219303db8eee59c3ea43b351c1.jpg?tr=c-force");
+      border-style: double;
+  }
+  footer{
+      color: red;
+      text-align: center;
+  }   
